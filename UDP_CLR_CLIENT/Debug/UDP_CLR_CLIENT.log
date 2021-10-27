@@ -1,0 +1,41 @@
+﻿  ArduinoSimulator.cpp
+  MyForm.cpp
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(609,35): warning C4101: 'ex': unreferenced local variable
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(680,8): warning C4101: 'temp': unreferenced local variable
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(833,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(842,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(853,16): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(727,9): warning C4101: 'buffTime': unreferenced local variable
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(974,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(974,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(975,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(975,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(976,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(976,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(985,40): warning C4244: 'argument': conversion from 'double' to 'INT16', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(987,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(988,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(989,40): warning C4244: 'argument': conversion from 'double' to 'INT16', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(993,68): warning C4244: 'argument': conversion from 'double' to 'INT16', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(993,30): warning C4244: 'argument': conversion from 'double' to 'INT16', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(1000,68): warning C4244: 'argument': conversion from 'double' to 'INT16', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(1000,30): warning C4244: 'argument': conversion from 'double' to 'INT16', possible loss of data
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(1039,15): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(1164,1): warning C4302: 'type cast': truncation from 'const char *' to 'char'
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(1155,15): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(1167,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(835): warning C4172: returning address of local variable or temporary: AnswerChar
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(844): warning C4172: returning address of local variable or temporary: AnswerChar
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\MyForm.h(964): warning C4172: returning address of local variable or temporary: AnswerServer
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\ArduinoSimulator.cpp(36): warning C4715: 'ArduinoSimulator::digitalWrite': not all control paths return a value
+  ArduinoSimulator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+bgi.lib(winbgi.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+bgi.lib(dibutil.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(dibutil.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\Debug\bgi.pdb'; linking object as if no debug info
+bgi.lib(drawing.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(drawing.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\Debug\bgi.pdb'; linking object as if no debug info
+bgi.lib(file.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(file.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\Debug\bgi.pdb'; linking object as if no debug info
+bgi.lib(misc.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(misc.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\Debug\bgi.pdb'; linking object as if no debug info
+bgi.lib(text.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(text.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\Debug\bgi.pdb'; linking object as if no debug info
+bgi.lib(winbgi.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(winbgi.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\Debug\bgi.pdb'; linking object as if no debug info
+bgi.lib(winthread.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(winthread.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\Debug\bgi.pdb'; linking object as if no debug info
+  UDP_CLR_CLIENT.vcxproj -> D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\Debug\UDP_CLR_CLIENT.exe

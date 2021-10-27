@@ -1,0 +1,6 @@
+D:\PROJECTS\C# training\UDP_CLR_CLIENT\UDP_CLR_CLIENT\Debug\UDP_CLR_CLIENT.vcxproj.AssemblyReference.cache
+D:\PROJECTS\C# training\UDP_CLR_CLIENT\UDP_CLR_CLIENT\Debug\UDPCLRCLIENT.MyForm.resources
+D:\PROJECTS\C# training\UDP_CLR_CLIENT\UDP_CLR_CLIENT\Debug\UDP_CLR_CLIENT.vcxproj.GenerateResource.cache
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\Debug\UDP_CLR_CLIENT.vcxproj.AssemblyReference.cache
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\Debug\UDPCLRCLIENT.MyForm.resources
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\UDP_CLR_CLIENT(5) - Copy\UDP_CLR_CLIENT\Debug\UDP_CLR_CLIENT.vcxproj.GenerateResource.cache
